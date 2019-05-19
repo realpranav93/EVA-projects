@@ -1,4 +1,5 @@
 ### Descriptop and Order of Keypoints
+-------
 
 **1. Receptive field**
 
@@ -122,6 +123,7 @@ It also increases the speed of training. Where as smaller batch sizes take a lot
 
 
 ### Reasoning Behind the order of above
+--------
 
 I can imagine the above points  into 2 broader groups:
 **1. (1-11):** Points that have to be noted while designing and architecture or vanilla model.
