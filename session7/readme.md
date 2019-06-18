@@ -1,4 +1,4 @@
-### Google net Calculations
+### GoogleNet Receptive Field Calculations
 
 | n_in   |      Kernel      |  n_out | jump_in   |      Stride      |  Receptive_field | jump_out  |
 |:----------:|:-------------:|:------:|:----------|:-------------:|:------:|:----------:|
